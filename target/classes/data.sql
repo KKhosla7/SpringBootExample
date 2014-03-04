@@ -1,0 +1,9 @@
+INSERT INTO booking (booking_name) VALUES ('John');
+INSERT INTO booking (booking_name) VALUES ('Walter');
+INSERT INTO booking (booking_name) VALUES ('Ria');
+INSERT INTO booking (booking_name) VALUES ('Doug');
+INSERT INTO booking (booking_name) VALUES ('Josh');
+INSERT INTO booking (booking_name) VALUES ('Ram');
+INSERT INTO booking (booking_name) VALUES ('Rio');
+INSERT INTO booking (booking_name) VALUES ('Sha');
+INSERT INTO booking (booking_name) VALUES ('Max');

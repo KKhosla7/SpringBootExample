@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html ng-app>
+<head>
+    <title>Spring Rest JSON Response - AngularJS</title>
+    <link rel="stylesheet" href="bootstrap.min.css"/>
+</head>
+<body>
+    <div ng-controller="BookingCtrl">
+        <div ng-repeat="booking in bookings">
+            <span ng-bind="booking.id" class="label label-danger">Booking Id</span> - <span ng-bind="booking.name" class="label label-info">Booking Name</span>
+        </div>
+    </div>
+<script src="angular.min.js"></script>
+<script src="bookings.js"></script>
+</body>
+</html>
